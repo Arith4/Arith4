@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arith
+- 👋 Hi, I’m Arith Das
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me arith5689@gmail.com
 
